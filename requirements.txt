@@ -1,0 +1,2 @@
+subprocess==3.5
+psutil==6.1.1
