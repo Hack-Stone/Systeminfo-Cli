@@ -27,16 +27,16 @@ flowchart TD
 
 ## Chapters
 
-1. [System Information Collection
-](01_system_information_collection_.md)
-2. [External Command Execution
-](02_external_command_execution_.md)
-3. [System Resource Query
-](03_system_resource_query_.md)
-4. [Raw Output Processing
-](04_raw_output_processing_.md)
-5. [Program Pause
-](05_program_pause_.md)
+1. System Information Collection
+
+2. External Command Execution
+
+3. System Resource Query
+
+4. Raw Output Processing
+
+5. Program Pause
+
 
 ---
 
